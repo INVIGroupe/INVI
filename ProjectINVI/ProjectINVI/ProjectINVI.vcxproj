@@ -83,12 +83,14 @@
     <Text Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="ImageManager.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
     <ClInclude Include="VcDebug.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="ProjectINVI.cpp" />
+    <ClCompile Include="ImageManager.cpp" />
     <ClCompile Include="stdafx.cpp" />
     <ClCompile Include="VcDebug.cpp" />
   </ItemGroup>
